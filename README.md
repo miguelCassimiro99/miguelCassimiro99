@@ -3,10 +3,6 @@
 Enjoying each discovery in this incredible world that is programming.
 Towards FullStack Development 🖥️☕🍕
 
-
-<!--
-**miguelCassimiro99/miguelCassimiro99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on a company that develops a management and POS system for retail and franchising
 
 - 🌱 I’m currently learning front-end development (Bootstrap 4, Javascript, Vue.js)
@@ -22,3 +18,6 @@ to see how does it work and open minds
 E-mail: miguel.cassimiro99@gmail.com
 LinkedIn: https://www.linkedin.com/in/miguel-cassimiro
 Resume: https://miguelcassimiro99.github.io/resume-miguelcassimiro/
+
+
+
