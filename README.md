@@ -5,7 +5,7 @@ Towards FullStack Development 🖥️☕🍕
 
 - 🔭 I’m currently working on a company that develops a management and POS system for retail and franchising
 
-- 🌱 I’m currently learning front-end development (Bootstrap 4, Javascript, Vue.js)
+- 🌱 I’m currently learning front-end development (Bootstrap 4, Javascript, Vue.js, Nuxt.js and Buefy)
 
 - 🙏🏻 I’m looking to collaborate on  CSS and Bootstrap 4.
 
