@@ -17,7 +17,7 @@ to see how does it work and open minds
 - 📫 How to reach me:
 E-mail: miguel.cassimiro99@gmail.com
 LinkedIn: https://www.linkedin.com/in/miguel-cassimiro
-Resume: https://miguelcassimiro99.github.io/resume-miguelcassimiro/
+
 
 
 
