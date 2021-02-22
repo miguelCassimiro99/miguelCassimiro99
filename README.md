@@ -5,14 +5,14 @@ Towards FullStack Development 🖥️☕🍕
 
 - 🔭 I’m currently working on a company that develops a management and POS system for retail and franchising
 
-- 🌱 I’m currently learning front-end development (Bootstrap 4, Javascript, Vue.js, Nuxt.js and Buefy)
+- 🌱 I’m learning front-end development (Bootstrap 4, Javascript, Vue.js, Nuxt.js and Buefy) and about UX & UI.
 
-- 🙏🏻 I’m looking to collaborate on  CSS and Bootstrap 4.
+- 🙏🏻 I would to collaborate with all new devs.
 
 - 🤔 I’m looking for help with all my little projects that I develop when I learning something new. I look apply that I learned in something simple and easy
-to see how does it work and open minds
+to see how does it work and open minds.
 
-- 🎮 About me: I like to study and descover new tools and frameworks to tests in my projects, games, series, cofee and pizza, movies and listen music all time.
+- 🎮 About me: I like to study, games, series, coffee and pizza, movies and listen music all time.
 
 - 📫 How to reach me:
 E-mail: miguel.cassimiro99@gmail.com
