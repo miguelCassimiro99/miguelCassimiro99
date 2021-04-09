@@ -1,23 +1,17 @@
 ### Hi there 👋
 
-Enjoying each discovery in this incredible world that is programming.
-Towards FullStack Development 🖥️☕🍕
+🙋‍♂️ Developer, UX Designer, player, cook and curious.
 
-- 🔭 I’m currently working on a company that develops a management and POS system for retail and franchising
+👔 Acting as a developer in a software house using tools like Nuxt.js and Laravel
 
-- 🌱 I’m learning front-end development (Bootstrap 4, Javascript, Vue.js, Nuxt.js and Buefy) and about UX & UI.
+👨‍🎓 Graduated in Systems Analysis and Development
 
-- 🙏🏻 I would to collaborate with all new devs.
+💻 Training front-end, I have been studying technologies that allow me to evolve more and more in the area and contribute with my knowledge. Applied to this, I have been pursuing UX | UI studies seeking to unify this knowledge in order to deliver projects that meet the user's need and bring comfort in use.
 
-- 🤔 I’m looking for help with all my little projects that I develop when I learning something new. I look apply that I learned in something simple and easy
-to see how does it work and open minds.
+✔ Participatory, collaborative and always able to listen and learn. I like to spend a lot of time listening to music, studying and also taking the time to challenge myself on projects to apply and consolidate knowledge.
+In my spare time I love to cook, play all kinds of games and practice some outdoor activity.
 
-- 🎮 About me: I like to study, games, series, coffee and pizza, movies and listen music all time.
-
-- 📫 How to reach me:
-E-mail: miguel.cassimiro99@gmail.com
-LinkedIn: https://www.linkedin.com/in/miguel-cassimiro
-
-
-
-
+#### 📫 How to reach me:
+- E-mail: miguel.cassimiro99@gmail.com
+- Telegram: @maiguelman
+- LinkedIn: https://www.linkedin.com/in/miguel-cassimiro
