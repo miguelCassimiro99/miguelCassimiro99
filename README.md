@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙋‍♂️ Developer, UX Designer, player, cook and curious.
+🙋‍♂️ Developer, UX Designer, gamer, cook and curious.
 
 👔 Acting as a developer in a software house using tools like Nuxt.js and Laravel
 
