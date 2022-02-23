@@ -5,7 +5,7 @@
 ###
 
 <p align="left" style="display: inline_block"> 
-  👔 I'm web developer student and actually working as Front-End Developer at <a href="https://www.piolett.com/" target="_blank">Piolett Business Management System<a/> in Taubaté-SP.
+  👔 Web developer. I love what I do. Currently responsible for the Front-End at <a href="https://www.piolett.com/" target="_blank">Piolett Business Management System.<a/> Wait just a second, I'll get some more coffee...
 </p>
 
 <p style="display: inline_block" align="left"><br>
