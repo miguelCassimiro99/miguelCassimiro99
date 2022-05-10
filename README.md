@@ -8,7 +8,7 @@
   👔 Web Developer. Enthusiastic about technologies that make a difference in people's lives. Constant learning
 </p>
 <p align="left" style="display: inline_block"> 
-  "O trabalho duro vence o dom natural" - Rock Lee
+  "Hard work defeats the natural gift" - Rock Lee
 </p>
 
 <p style="display: inline_block" align="left"><br>
