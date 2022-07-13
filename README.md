@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  🦄 Hobbies: Cooking, playing games, Formula 1, studying and automation.
+  🦄 Hobbies: Develop for fun and learn, cooking, playing games, Formula 1, studying and automation.
 </p>
 <p align="left" style="display: inline_block"> 
   "Hard work defeats the natural gift" - Rock Lee
