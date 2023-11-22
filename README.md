@@ -14,15 +14,17 @@
 ###
 
 <p align="left" style="display: inline_block"> 
+  "Hard work defeats the natural gift" - Rock Lee
+</p>
+
+<p align="left" style="display: inline_block"> 
   👔 Front-End Developer. Enthusiastic about technologies that make a difference in people's lives. Constant learning
 </p>
 
 <p align="left">
   🦄 Hobbies: Develop for fun and learn, cooking, playing games, Formula 1, studying and automation.
 </p>
-<p align="left" style="display: inline_block"> 
-  "Hard work defeats the natural gift" - Rock Lee
-</p>
+
 
 <p style="display: inline_block" align="left"><br>
   <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
